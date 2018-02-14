@@ -15,8 +15,8 @@
 -----  рабочий файлы
 
    \routes\web.php - роутинг
-   \app\Models\Users.php - модел юзеров
-    \app\Models\Articles.php - модел статей
+   \app\Models\Users.php - модель юзеров
+    \app\Models\Articles.php - модель статей
     \app\Http\Controllers\AuthController.php - API ( до реста долеко )
 
 
